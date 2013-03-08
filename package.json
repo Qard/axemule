@@ -1,0 +1,16 @@
+{
+  "name": "axemule",
+  "version": "0.0.1",
+  "description": "Javascript DSL for writing XML or HTML structures",
+  "keywords":["xml","html","dsl"],
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha":"*"
+  }
+}

@@ -1,4 +1,6 @@
 # Axemule
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/axemule.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Qard/axemule.png)](https://travis-ci.org/Qard/axemule)
 
 ![axemule](http://i.imgur.com/mayLOo9.png)
